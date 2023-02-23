@@ -1,10 +1,10 @@
-top bun
-bacon
-
-- cheese
-- patty
-
-patty
-lettuce
-chipotle mayo
-bottom bun
+#### Top Bun
+- Bacon
+- Cheese
+- Patty
+- Lettuce
+- Patty
+- Lettuce
+- chipotle mayo
+- Beef Patty
+#### Bottom Bun
