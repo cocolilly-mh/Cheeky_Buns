@@ -1,6 +1,8 @@
 top bun
-
 bacon
+
+- cheese
+- patty
 
 patty
 lettuce
